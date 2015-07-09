@@ -1,0 +1,17 @@
+.convenios_table {
+	text-align: center;
+}
+
+.convenios_column {
+	width: 258px;
+	height: 126px;
+	position: relative;
+	display: inline-block;
+	overflow: hidden;
+	box-sizing: border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	border-width: 1px;
+	border-style: dotted;
+	border-color: #7cccfc;
+}

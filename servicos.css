@@ -1,0 +1,99 @@
+.splitter {
+	margin: 0;
+	padding: 0;
+	min-height: 350px;
+	display: block;
+	position: relative;
+}
+
+#serv_01 {
+	margin: 0;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	width: 350px;
+	height: 270px;
+	position: relative;
+	display: block;
+	float: right;
+	text-align: center;
+	background-image: url("images/servicos/00.jpg");
+	background-size: 80% auto;
+	background-repeat: no-repeat;
+	background-position: 20px 0;
+}
+
+#serv_02 {
+	margin: 0;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	width: 350px;
+	height: 337px;
+	position: relative;
+	display: block;
+	float: left;
+	text-align: center;
+}
+
+#serv_03 {
+	margin: 0;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	width: 350px;
+	height: 337px;
+	position: relative;
+	display: block;
+	float: right;
+	text-align: center;
+	background-image: url("images/servicos/02.jpg");
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+
+#serv_04 {
+	margin: 0;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	width: 350px;
+	height: 200px;
+	position: relative;
+	display: block;
+	float: left;
+	text-align: center;
+}
+
+#serv_05 {
+	margin: 0;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	width: 350px;
+	height: 270px;
+	position: relative;
+	display: block;
+	float: right;
+	text-align: center;
+	background-image: url("images/servicos/04.jpg");
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+}
+
+.serv_texto {
+	position: relative;
+}
+
+.serv_list {
+	margin: 0;
+	display: block;
+}
+
+.serv_list ul {
+	margin:0;
+    padding: 0 0 0 15px;
+	position: relative;
+    display: table;
+    table-layout: fixed;
+}
+
+ul {
+	padding-left: 15px;
+	font-size: 16px;
+}

@@ -1,0 +1,21 @@
+.maincontent {
+	min-height: 600px;
+}
+
+.contato_texto {
+	margin: 0;
+}
+
+.location {
+	margin: 0;
+	width: 500px;
+	height: 400px;
+	background-image: url("img/contato/01.png");
+	background-size: 100% auto;
+	position: relative;
+	float: left;
+}
+
+.left_td {
+	width: 110px;
+}
